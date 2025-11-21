@@ -77,6 +77,16 @@ AI를 본격적으로 학습하기 전에 알아두면 좋은 기초 개념들�
 - [Evolutionary Algorithms (진화 알고리즘)](./Learn_AI/EvolutionaryAlgorithms.md)
 - [Bayesian Networks (베이지안 네트워크)](./Learn_AI/BayesianNetworks.md)
 - [Causal Inference (인과 추론)](./Learn_AI/CausalInference.md)
+- [Neural Architecture Search (NAS, 신경망 구조 탐색)](./Learn_AI/NeuralArchitectureSearch.md)
+- [Continual Learning (지속 학습)](./Learn_AI/ContinualLearning.md)
+- [Domain Adaptation (도메인 적응)](./Learn_AI/DomainAdaptation.md)
+- [Few-Shot Learning (퓨샷 학습)](./Learn_AI/FewShotLearning.md)
+- [Multi-Agent RL (다중 에이전트 강화 학습)](./Learn_AI/MultiAgentRL.md)
+- [Instance Segmentation (인스턴스 분할)](./Learn_AI/InstanceSegmentation.md)
+- [OCR (광학 문자 인식)](./Learn_AI/OCR.md)
+- [Facial Recognition (안면 인식)](./Learn_AI/FacialRecognition.md)
+- [Sentiment Analysis (감성 분석)](./Learn_AI/SentimentAnalysis.md)
+- [Machine Translation (기계 번역)](./Learn_AI/MachineTranslation.md)
 
 ## 4. AI 심화 지식
 최신 연구 동향과 심화된 모델들을 다룹니다.
